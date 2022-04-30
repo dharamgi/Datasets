@@ -1,0 +1,7 @@
+1. import necessary libraries and package
+2. read the file by using appropriate file type(excel,csv,html,json,pickle) using pd
+3. print the dataset
+4. .head(),.tail()
+5. .columns, .size, .shape, .info(),.sample(), .describe()
+6. pd,np,sns,plt and every other thing-shift+tab,
+7. 
